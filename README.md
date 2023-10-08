@@ -1,4 +1,4 @@
 # sysdc
 ---
-Pythonni o'rnatish uchun `bash installPython.sh`\
+Pythonni o'rnatish uchun `bash installPython.sh`
 ---
