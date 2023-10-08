@@ -69,6 +69,7 @@ sleep 5
 clear
 
 echo "Kamandalar:"
-echo "python3"
+echo "$HOME/py/bin/python3.9 --version"
+echo "$HOME/py/bin/pip3.9 --version"
 
 
