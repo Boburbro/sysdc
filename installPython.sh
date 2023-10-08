@@ -1,5 +1,7 @@
 echo "Python o'rnatish boshlanmoqda!"
 sleep 5
+echo "Sabir tilayman..."
+sleep 5
 wget https://www.python.org/ftp/python/3.9.13/Python-3.9.13.tgz
 echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
 echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
